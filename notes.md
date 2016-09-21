@@ -8,6 +8,7 @@
 - Semantic disambiguation
 - Semantic web
 - Linked data?
+- Ekaterina Shutova:  https://scholar.google.ca/citations?hl=en&user=jqOFBGoAAAAJ&view_op=list_works&sortby=pubdate
 
 # Diction
 
@@ -27,10 +28,3 @@ here: http://www.nltk.org/book/ch02.html
 - quantify degree of abstractness
 - Choice of words can give the poem a certain feel. Formal, casual, tense, playful.
 - How is poetic speech different from ordinary speech? 
-
-- poets may:
-  - be tactile
-  - be juvenile
-  - be philosophical
-  - favour smells
-  - favour sight
